@@ -21,16 +21,16 @@ Line follower robots are used in semi as well as fully autonomous plants. The li
 
 ## Components
 
-- Arduino Uno 
+- Arduino Uno - 1 Unit
 ![Arduino Uno](https://5.imimg.com/data5/NB/KR/OH/SELLER-19590896/arduino-uno-r3-atmega16u2-atmega328-dip-.jpg)
 
-- L298N Motor Driver
+- L298N Motor Driver - 1Unit
 ![L298N Motor Driver](https://components101.com/sites/default/files/component_pin/L298N-Module-Pinout.jpg)
 
-- IR Sensor 
+- IR Sensor - 2 Unit
 ![IR Sensor ](https://5.imimg.com/data5/EN/IH/PV/SELLER-49489929/ir-sen2.png)
 
-- BO Motor with Wheel
+- BO Motor with Wheel - 2 Unit
 ![BO Motor with Wheel ](https://www.robotbanao.com/cdn/shop/products/2-x-duel-shaft-bo-motor-with-wheel-black-and-yellow-2-sets-combo-32482981183724.jpg?v=1635000844)
 
 - Jumper Wire
