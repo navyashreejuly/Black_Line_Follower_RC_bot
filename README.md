@@ -46,12 +46,12 @@ The Black Line Follower Robot is a prototype designed for automated navigation a
 
 ## Code
 
-[Link to Arduino Code](https://docs.google.com/document/d/1yOwO8bCl489hEB7cHf8Prr4tpoaIlrI_q3_zQLsGZC8/edit?usp=sharing)
+[Link to Code](https://docs.google.com/document/d/1yOwO8bCl489hEB7cHf8Prr4tpoaIlrI_q3_zQLsGZC8/edit?usp=sharing)
 
 ## Conclusion
 
-The Bluetooth-controlled RC bot effectively meets the requirements by providing a user-friendly, wireless remote control interface. The system is customizable and expandable, accommodating various applications. Challenges like limited range and safety concerns exist, offering opportunities for learning and future enhancements. Overall, it addresses the problem of remote control in robotics, providing a practical, hands-on solution with a promising future.
+The black line follower RC bot effectively addresses the problem of autonomously tracking and following a black line. Its purpose-built design, featuring sensors, control systems, and actuators, allows it to precisely follow the path marked by the line. This solution meets the requirements of the problem by providing an educational and practical platform for learning about sensor-based navigation and robotics control.
 
-*The proposed solution, a Bluetooth-controlled RC bot, effectively meets the requirements of the problem. It provides a user-friendly, wireless remote control interface, allowing for convenient and flexible operation of the robot. The system is customizable and expandable, accommodating a wide range of applications. While challenges like limited range and potential safety concerns exist, the project offers valuable learning experiences and the potential for future enhancements. Overall, it addresses the problem of remote control in robotics, offering a practical, hands-on solution with a promising future.*
+The bot serves as an ideal tool for hobbyists and students to gain hands-on experience in robotics, programming, and sensor technologies. Additionally, it is often used in competitive settings, encouraging innovation and skill development in the field. The black line follower RC bot is a practical embodiment of autonomous navigation and a valuable tool for those seeking to explore the world of robotics.
 
 Feel free to contribute, report issues, or suggest improvements!
