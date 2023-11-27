@@ -42,7 +42,7 @@ Line follower robots are used in semi as well as fully autonomous plants. The li
 The Black Line Follower Robot is a prototype designed for automated navigation along a black line on a contrasting surface. This project combines sensors, actuators, and a microcontroller to create an intelligent robot capable of following a predetermined path.
 
 - Circuit
-![Circuit](img.png)
+![Circuit](img/img.jpeg)
 
 ## Code
 
